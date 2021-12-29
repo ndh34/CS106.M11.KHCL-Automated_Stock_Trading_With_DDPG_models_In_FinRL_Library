@@ -1,1 +1,1 @@
-# Automated-stock-trading-with-DDPG-and-A2C-models
+# Automated-stock-trading-with-DDPG-models-in-FinRL-library
